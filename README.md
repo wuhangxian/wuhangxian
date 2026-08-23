@@ -75,19 +75,6 @@ CUDA operator implementations and learning materials.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wuhangxian&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuhangxian&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wuhangxian&theme=dracula&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
